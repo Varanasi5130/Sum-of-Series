@@ -1,0 +1,7 @@
+
+class Solution:
+    def seriesSum(self, n : int) -> int:
+        # code here
+        c=(n*(n+1))//2
+        return c
+
